@@ -1,6 +1,6 @@
 
 document.getElementById("texts").innerHTML = '<div class="text"><span>ABDUL MUKIT N</span></div>'
-.repeat(7)
+.repeat(7);
 
 var texts = $('.text')
 
